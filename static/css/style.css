@@ -1,0 +1,10 @@
+body {
+    background-color:wheat;
+}
+
+.title {
+    color: white;
+    padding-top: 160px;
+    padding-bottom: 160px;
+    margin-bottom: 20px;
+}
